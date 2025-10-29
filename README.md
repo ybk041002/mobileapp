@@ -1,3 +1,1 @@
-# mobileapp
-
-## 손민석
+# mobileap
